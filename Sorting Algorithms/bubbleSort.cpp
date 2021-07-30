@@ -1,13 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void swap(int *xp, int *yp){
-	int temp = *xp;
-	*xp = *yp;
-	*yp = temp;
-	
-}
-
 void bubblesort(int arr[], int n){
 	int i,j;
 	bool swapped=false;
@@ -15,7 +8,7 @@ void bubblesort(int arr[], int n){
 	for(int i=0;i<n;i++){
 		for(int j=0;j<n-i-1;j++){
 			if(arr[j]>arr[j+1]){
-				swap(&arr[j],&arr[j+1]);
+				swap(arr[j],arr[j+1]);
 				swapped=true;
 			}
 		}
@@ -26,7 +19,7 @@ void bubblesort(int arr[], int n){
 }
 
 int main() {
-	int arr[] ={64,35,25,12,2,10,11};
+	int arr[] ={64,35,25,52,2,10,11};
 	
 	int n= sizeof(arr)/sizeof(arr[0]);
 	bubblesort(arr,n);
@@ -39,3 +32,11 @@ int main() {
 	
 	return 0;
 }
+
+// Time Complexity:
+
+// Worst Case Time Complexity [ Big-O ]: O(n2)
+// Best Case Time Complexity [Big-omega]: O(n)
+// Average Time Complexity [Big-theta]: O(n2)
+
+// Space Complexity: O(1)

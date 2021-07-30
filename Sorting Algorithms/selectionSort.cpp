@@ -25,3 +25,11 @@ int main() {
 
     return 0;
 }
+
+// Time Complexity:
+
+// Worst Case Time Complexity [ Big-O ]: O(n2)
+// Best Case Time Complexity [Big-omega]: O(n2)
+// Average Time Complexity [Big-theta]: O(n2)
+
+// Space Complexity: O(1)
