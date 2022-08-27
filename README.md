@@ -1,10 +1,13 @@
 # Data Structure and Algorithm
-
-# College
-
 ![GitHub](https://img.shields.io/github/license/mohitkhedkar/Data-Structures-and-Algorithms?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/Data-Structures-and-Algorithms?style=for-the-badge&color=red)
 ![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/Data-Structures-and-Algorithms?style=for-the-badge)
+
+# College
+
+![GitHub](https://img.shields.io/github/license/mohitkhedkar/College?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/College?style=for-the-badge&color=red)
+![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/College?style=for-the-badge)
 
 
 ## License
