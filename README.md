@@ -3,13 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/Data-Structures-and-Algorithms?style=for-the-badge&color=red)
 ![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/Data-Structures-and-Algorithms?style=for-the-badge)
 
-# College
-
-![GitHub](https://img.shields.io/github/license/mohitkhedkar/College?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/College?style=for-the-badge&color=red)
-![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/College?style=for-the-badge)
-
-
 ### TO DO
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
