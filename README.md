@@ -9,7 +9,9 @@
 ### TO DO
 
 - [ ] Data Structures
-  - [x] Arrays
+  
+
+
 - [ ] Algorithms
-  - [x] bubble sort
-  - [x] selection sort
+  
+  
