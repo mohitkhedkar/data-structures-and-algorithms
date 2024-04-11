@@ -9,9 +9,7 @@
 ### TO DO
 
 - [ ] Data Structures
-  
 
+  - [ ] Arryas
 
 - [ ] Algorithms
-  
-  
