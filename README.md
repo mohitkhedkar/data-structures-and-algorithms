@@ -9,15 +9,13 @@
 ### TO DO
 
 - [ ] Data Structures
-	- [ ] 
-  
-
 
 - [ ] Algorithms
-	- [ ] Sorting Algorithms
-		- [x] bubble sort
-  
-  
+  - [ ] Sorting Algorithms
+    - [x] bubble sort
 
-
- <!-- https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/ -->
+ <!-- https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/ 
+ 
+ https://takeuforward.org
+ 
+ -->
